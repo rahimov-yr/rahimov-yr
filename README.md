@@ -30,5 +30,9 @@
 
 [Insert Fun Fact about Yourself]
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&theme=dark&show_icons=true)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&theme=dark&show_icons=true)](https://github.com/[Your GitHub Username])
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=dark)](https://github.com/[Your GitHub Username])
+
+![Visitor Count](https://profile-counter.glitch.me/[Your GitHub Username]/count.svg)
 
