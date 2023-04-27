@@ -36,3 +36,12 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/[Your GitHub Username]/count.svg)
 
+
+# Skills
+
+- **Programming Languages:** JavaScript, TypeScript, HTML, CSS, Java, Swift
+- **Frameworks and Libraries:** React, React Native, Redux, Vue, Angular, Node.js, Express, Django, Flask
+- **Databases and ORMs:** MongoDB, PostgreSQL, MySQL, Firebase, SQLAlchemy, Prisma
+- **DevOps and Cloud:** AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Jenkins, Travis CI
+- **Other Tools and Technologies:** Git, GitHub, Jira, Trello, Figma, Sketch, Photoshop, Illustrator
+
