@@ -6,7 +6,7 @@ Full-stack Developer based in Tajikistan. I'm always seeking new challenges and 
 ## Skills
 
 - **Programming Languages:** JavaScript, TypeScript, C++
-- **Frameworks and Libraries:** Next JS, React JS, React Native, Redux
+- **Frameworks and Libraries:** Next JS, React JS, React Native, Rust
 - **Other Tools and Technologies:** Git, GitHub, Trello, Figma, Sketch, Photoshop, Illustrator
 
 
